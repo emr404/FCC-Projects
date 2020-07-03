@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: lightcoral;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#nav-bar a {
+    padding: 30px;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+}
+
