@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+    background: linear-gradient(90deg, red, green);
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background: none;
+}
