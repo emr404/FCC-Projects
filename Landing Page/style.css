@@ -21,3 +21,17 @@ header {
     color: white;
 }
 
+@media(max-width:400px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #nav-bar a {
+        padding: 10px;
+        font-size: 1em;
+        text-decoration: none;
+        color: white;
+    }
+}
